@@ -1,4 +1,4 @@
 ---
 title: "Welcome to my page"
 ---
-Where we'll work through geospatial projects for a better understanding of earth.
+where I have fun with a variety of remote sensing datasets in Google Earth Engine, Python, and R.
