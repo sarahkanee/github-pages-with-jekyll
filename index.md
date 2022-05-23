@@ -1,5 +1,4 @@
 ---
 title: "Welcome to my blog"
 ---
-
-Setting up github pages to display my work... but first gotta learn how to do it!
+Where we'll work through geospatial projects for a better understanding of earth.
